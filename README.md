@@ -8,8 +8,8 @@
 - WikiRoCap | [Dataset](https://github.com/vladman-25/WikiRoCap)
 
 **Others**
-- Poster presentation at First Workshop on Multilingual Multicultural Evaluation | 2026 [Workshop page](https://multilingual-multicultural-evaluation.github.io/)
-- Poster presentation at BRAIT 2026 (Best Romanian AI Thesis Awards) | MSc Dissertation Track [BRAIT](https://brait.airomania.eu/)
+- Poster presentation at First Workshop on Multilingual Multicultural Evaluation | 2026 | [Workshop page](https://multilingual-multicultural-evaluation.github.io/)
+- Poster presentation at BRAIT 2026 (Best Romanian AI Thesis Awards) | MSc Dissertation Track | [BRAIT](https://brait.airomania.eu/)
 <!--
 **vladman-25/vladman-25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
