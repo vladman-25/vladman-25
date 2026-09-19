@@ -3,9 +3,13 @@
 **Publications**
 - RoD-TAL: A Benchmark for Answering Questions in Romanian Driving License Exams | [EACL 2026 Findings](https://aclanthology.org/2026.findings-eacl.295/) | [Dataset](https://huggingface.co/datasets/GRAI-UNSTPB/RoD-TAL) | [Code](https://github.com/vladman-25/RoD-TAL) | [Models](https://huggingface.co/GRAI-UNSTPB/multilingual-e5-small-RoD-TAL)
 
-**Other Resources**
+**Datasets**
 - Flickr30k-Ro | [Dataset](https://github.com/dima331453/Flickr30k-Romanian)
 - WikiRoCap | [Dataset](https://github.com/vladman-25/WikiRoCap)
+
+**Others**
+- Poster presentation at First Workshop on Multilingual Multicultural Evaluation | 2026 [Workshop page](https://multilingual-multicultural-evaluation.github.io/)
+- Poster presentation at BRAIT 2026 (Best Romanian AI Thesis Awards) | MSc Dissertation Track [BRAIT](https://brait.airomania.eu/)
 <!--
 **vladman-25/vladman-25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
